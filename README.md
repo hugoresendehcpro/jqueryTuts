@@ -3,3 +3,10 @@
 ### (link CDN)  - [https://cdnjs.com/libraries/jquery]
 
 ### (link jQuery) - [https://jquery.com/download/]
+
+---------------------------------
+        <script src=
+                    "https://code.jquery.com/jquery-3.3.1.min.js">
+        </script>
+        
+---------------------------------
